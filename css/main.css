@@ -5,3 +5,39 @@
   text-decoration:none;
   margin:0 0 0 10px;
 }
+.learnenough_twitter_link_image{
+  text-decoration:none;
+}
+table td{
+  padding:10px;
+}
+#softcover_header{
+  text-align:center;
+  margin:0 0 80px;
+}
+.sperm_whales_image{
+  display:block;
+  margin:0 auto;
+}
+
+.softcover_story{
+  width:500px;
+  margin:20px auto;
+  padding:30px;
+  background-color:#fafafa;
+}
+.moby_dick_image{
+  height:200px;
+  float:left;
+  margin:0 40px 0 0;
+}
+#call_me_ashmel{
+  font-style:normal;
+  font-size:24px;
+  font-weight:bold;
+  color:#ff00ff;
+}
+.moby_dick_story_quote{
+  font-style:italic;
+  font-size:2opx;
+}
